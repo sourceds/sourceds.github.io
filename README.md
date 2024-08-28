@@ -1,5 +1,6 @@
 # 박시후 | Sihoo Park
-> Who needs HTML/CSS when you've got good ol' markdown?
+Who needs HTML/CSS when you've got good ol' markdown?
+
 ## About
 - 서강대학교 컴퓨터공학과 23학번
   - 중앙 컴퓨터 동아리 <SGCC> 임원진 (2023-02 ~ 현재)
